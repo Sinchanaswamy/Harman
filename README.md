@@ -1,4 +1,4 @@
-Day1: JAVA Basics, Operaters,Flow control, OOPS(in brief)
+Day1: JAVA- Basics, Operaters,Data structure, Flow control, OOPS(in brief)
 
 Day2: Flow control(continued), OOPS(in detail),Memory allocation of array(real time)
 
