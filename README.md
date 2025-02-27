@@ -16,4 +16,5 @@ Day8: JAVA(Interface)
 
 Day9: Collections (Set), methods and operations on set
 
-Day10: Hashset, its methods and function
+Day10: Hashset, methods and operation on hashset
+
