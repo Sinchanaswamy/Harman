@@ -20,3 +20,5 @@ Day10: Hashset, methods and operation on hashset and pattern matching problem co
 
 Day11: Queue interface in java(Common methods, operations on queue interface, characteristics, examples)
 
+Day12: Queue interface in  java 2(classes that implements the queue interface, Methods ,Advantages, Disadvantages)
+
