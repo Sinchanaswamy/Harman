@@ -22,7 +22,7 @@ Day11: Queue interface in java(Common methods, operations on queue interface, ch
 
 Day12: Queue interface in  java 2(classes that implements the queue interface, Methods ,Advantages, Disadvantages)
 
-Day13: Hashtable,properties, constructors of hash table
+Day13: Hashtable,properties, constructors of hash table, performing various operation on hashtable, methods, advantages and disadvantages
 
 
 
