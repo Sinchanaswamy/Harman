@@ -26,8 +26,6 @@ Day13: Hashtable,properties, constructors of hash table, performing various oper
 
 Day14: File handling in java, Streams in java, Java file class methods, File operations
 
-KOTLIN-1: Introduction, data types,variables, operations, standard input output.
 
-KOTLIN-2: Control flow
 
 
